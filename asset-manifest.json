@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AlbedoUniversal/webK/static/css/main.466ff662.css",
-    "main.js": "/AlbedoUniversal/webK/static/js/main.a9ff26b5.js",
-    "static/js/787.708b0b6f.chunk.js": "/AlbedoUniversal/webK/static/js/787.708b0b6f.chunk.js",
-    "static/media/bg.svg": "/AlbedoUniversal/webK/static/media/bg.659a6c058a3555c79b82.svg",
-    "index.html": "/AlbedoUniversal/webK/index.html",
-    "main.466ff662.css.map": "/AlbedoUniversal/webK/static/css/main.466ff662.css.map",
-    "main.a9ff26b5.js.map": "/AlbedoUniversal/webK/static/js/main.a9ff26b5.js.map",
-    "787.708b0b6f.chunk.js.map": "/AlbedoUniversal/webK/static/js/787.708b0b6f.chunk.js.map"
+    "main.css": "/webK/static/css/main.5b0ca97a.css",
+    "main.js": "/webK/static/js/main.d901a5ce.js",
+    "static/js/787.708b0b6f.chunk.js": "/webK/static/js/787.708b0b6f.chunk.js",
+    "static/media/bg.svg": "/webK/static/media/bg.659a6c058a3555c79b82.svg",
+    "index.html": "/webK/index.html",
+    "main.5b0ca97a.css.map": "/webK/static/css/main.5b0ca97a.css.map",
+    "main.d901a5ce.js.map": "/webK/static/js/main.d901a5ce.js.map",
+    "787.708b0b6f.chunk.js.map": "/webK/static/js/787.708b0b6f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.466ff662.css",
-    "static/js/main.a9ff26b5.js"
+    "static/css/main.5b0ca97a.css",
+    "static/js/main.d901a5ce.js"
   ]
 }
